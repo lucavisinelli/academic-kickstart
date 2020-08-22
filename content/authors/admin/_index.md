@@ -14,7 +14,7 @@ role: Marie Skłodowska-Curie fellow (European Union's Horizon 2020 research and
 
 # Organizations/Affiliations
 organizations:
-- name: GRAPPA, University of Amsterdam
+- name: National Institute of Nuclear Physics (INFN), Frascati, Italy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,5 +71,3 @@ user_groups:
 ---
 
 Luca Visinelli holds a "Fellini" Fellowship at the National Institute of Nuclear Physics (INFN) in Frascati, Italy. His research interests include particle astrophysics, dark matter, dark energy, and black hole evidences. He is particluarly active in exploring the role of the axion as a dark matter candidate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
