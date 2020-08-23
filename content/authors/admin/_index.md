@@ -47,6 +47,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Luca Visinelli is a post-doctoral researcher at Gravitation, AstroParticles Physics Amsterdam (GRAPPA), and he holds a "Fellini" Marie Skłodowska-Curie Fellowship at the National Institute of Nuclear Physics (INFN) in Frascati, Italy to start in 2021.
+I am a post-doctoral researcher at Gravitation, AstroParticles Physics Amsterdam (GRAPPA). I also hold a "Fellini" Marie Skłodowska-Curie Fellowship at the National Institute of Nuclear Physics (INFN) in Frascati (Italy), starting 2021. I was previously a postdoc at NORDITA and Stockholm University, and a graduate student at The University of Utah.
 
-His research interests include particle astrophysics, dark matter, dark energy, and black hole evidences. He is particularly active in exploring the role of light bosons, like the axion, as a dark matter candidate.
+My research activity spans various interesting topics including particle astrophysics, dark matter, dark energy, and black holes. I have focused in exploring the role the axion as a dark matter candidate, for which I co-wrote a review on Physics Report in 2020.
