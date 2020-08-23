@@ -15,9 +15,9 @@ interests:
 social:
   - link: mailto:l.visinelli@uva.nl
     icon_pack: far
-    icon: <i class="fas fa-envelope"></i>
+    icon: envelope
   - icon_pack: fab
-    icon: <i class="fab fa-skype"></i>
+    icon: skype
     link: skype.com/luca.visinelli
   - icon: twitter
     icon_pack: fab
