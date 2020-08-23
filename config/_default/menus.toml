@@ -9,24 +9,34 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Teaching"
+  url = "#posts"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Talks"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "Publications"
+  url = "#featured"
+  weight = 50
+
+[[main]]
+  name = "Outreach"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Contacts"
+  url = "#contact"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
