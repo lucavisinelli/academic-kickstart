@@ -93,11 +93,11 @@ phone = "+39 349 470 3231"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Science Park 904", city = "Amsterdam", postcode = "1098 XH", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "52.354409", longitude = "4.9535253"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -114,8 +114,6 @@ office_hours = []
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/lucavisinelli"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:luca.visinelli"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Italianoluca5"},
   ]
 
