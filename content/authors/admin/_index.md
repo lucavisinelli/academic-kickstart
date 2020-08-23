@@ -13,6 +13,12 @@ interests:
   - Dark Matter modeling
   - Black Holes signatures (shadows, gravitational waves)
 social:
+  - link: mailto:l.visinelli@uva.nl
+    icon_pack: far
+    icon: <i class="fas fa-envelope"></i>
+  - icon_pack: fab
+    icon: <i class="fab fa-skype"></i>
+    link: skype.com/luca.visinelli
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LucaVisinelli
@@ -22,12 +28,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lucavisinelli
-  - icon_pack: ai
-    icon: <i class="fab fa-skype"></i>
-    link: https://www.skype.com/luca.visinelli
-  - link: mailto:l.visinelli@uva.nl
-    icon_pack: ai
-    icon: <i class="fas fa-envelope"></i>
 education:
   courses:
     - course: PhD in Physics
