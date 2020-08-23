@@ -19,15 +19,18 @@ social:
   - icon_pack: fab
     icon: skype
     link: skype.com/luca.visinelli
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/LucaVisinelli
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=9w4cYvoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/lucavisinelli
+  - icon_pack: fab
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Luca_Visinelli
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/LucaVisinelli
+  - icon: googlescholar
+    icon_pack: fab
+    link: https://scholar.google.co.uk/citations?user=9w4cYvoAAAAJ
 education:
   courses:
     - course: PhD in Physics
