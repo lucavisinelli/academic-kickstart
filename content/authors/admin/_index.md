@@ -22,6 +22,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lucavisinelli
+  - icon_pack: ai
+    icon: <i class="fab fa-skype"></i>
+    link: https://www.skype.com/luca.visinelli
 education:
   courses:
     - course: PhD in Physics
