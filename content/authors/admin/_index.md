@@ -25,6 +25,9 @@ social:
   - icon_pack: ai
     icon: <i class="fab fa-skype"></i>
     link: https://www.skype.com/luca.visinelli
+  - link: mailto:l.visinelli@uva.nl
+    icon_pack: ai
+    icon: <i class="fas fa-envelope"></i>
 education:
   courses:
     - course: PhD in Physics
