@@ -1,73 +1,41 @@
 ---
-# Display name
-title: Luca Visinelli, Ph.D.
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Marie Skłodowska-Curie fellow (European Union's Horizon 2020 research and innovation programme)
-
-# Organizations/Affiliations
 organizations:
-- name: National Institute of Nuclear Physics (INFN), Frascati, Italy
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
+  - name: Gravitation, AstroParticles Physics Amsterdam (GRAPPA)
+    url: http://grappa.amsterdam/
+superuser: true
+authors:
+  - admin
+title: Luca Visinelli
+role: Post-Doctoral Researcher at GRAPPA, University of Amsterdam
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
-
 interests:
-- Particle Astrophysics
-- Dark Matter modeling
-- Black Holes signatures (shadows, gravitational waves)
-
+  - Particle Astrophysics
+  - Dark Matter modeling
+  - Black Holes signatures (shadows, gravitational waves)
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/LucaVisinelli
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=9w4cYvoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lucavisinelli
 education:
   courses:
-  - course: PhD in Physics
-    institution: The University of Utah
-    year: 2011
-  - course: MSc in Physics
-    institution: The University of Utah
-    year: 2011
-  - course: BSc in Physics
-    institution: University of Bologna, Italy
-    year: 2007
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/LucaVisinelli
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=9w4cYvoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lucavisinelli
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Physics
+      institution: The University of Utah
+      year: 2011
+    - course: MSc in Physics
+      institution: The University of Utah
+      year: 2011
+    - course: BSc in Physics
+      institution: University of Bologna, Italy
+      year: 2007
+email: luca.visinelli@gmail.com
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
-
-Luca Visinelli holds a "Fellini" Fellowship at the National Institute of Nuclear Physics (INFN) in Frascati, Italy. His research interests include particle astrophysics, dark matter, dark energy, and black hole evidences. He is particluarly active in exploring the role of the axion as a dark matter candidate.
+Luca Visinelli is a post-doctoral researcher at Gravitation, AstroParticles Physics Amsterdam (GRAPPA), and he holds a "Fellini" Marie Curie Fellowship at the National Institute of Nuclear Physics (INFN) in Frascati, Italy to start in 2021. His research interests include particle astrophysics, dark matter, dark energy, and black hole evidences. He is particularly active in exploring the role of light bosons, like the axion, as a dark matter candidate.
