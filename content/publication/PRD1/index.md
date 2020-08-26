@@ -5,7 +5,7 @@ authors:
 - Katherine Freese
 - Sunny Vagnozzi
 - admin
-date: "2019-04-29T00:00:00Z"
+date: "2019-08-29T00:00:00Z"
 doi: "10.1103/PhysRevD.100.044057"
 
 # Schedule page publish date (NOT publication's date).
