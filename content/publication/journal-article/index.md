@@ -1,8 +1,10 @@
 ---
-title: "An example conf paper"
+title: "The landscape of QCD axion models"
 authors:
+- Luca di Luzio
+- Maurizio Giannotti
+- Enrico Nardi
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
