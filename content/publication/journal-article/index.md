@@ -32,7 +32,7 @@ featured: true
 
 links:
 - name: Custom Link
-url: https://www.sciencedirect.com/science/article/abs/pii/S0370157320302477
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0370157320302477
 url_pdf: https://arxiv.org/pdf/2003.01100.pdf
 url_code: ''
 url_dataset: ''
