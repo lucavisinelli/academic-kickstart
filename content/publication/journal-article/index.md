@@ -5,7 +5,7 @@ authors:
 - Maurizio Giannotti
 - Enrico Nardi
 - admin
-date: ""
+date: "2020-07-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
