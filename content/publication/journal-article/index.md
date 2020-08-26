@@ -63,7 +63,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-
+---
 title: "The landscape of QCD axion models"
 authors:
 - Luca di Luzio
