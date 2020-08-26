@@ -29,13 +29,13 @@ subtitle = ""
     name = "Dark Matter"
     tag = "Dark Matter"
 
-[[content.filter_button]]
-    name = "Axions"
-    tag = "Axions"
-
   [[content.filter_button]]
     name = "Dark Energy"
     tag = "Dark Energy"
+
+  [[content.filter_button]]
+    name = "Axions"
+    tag = "Axions"
 
   [[content.filter_button]]
     name = "Black Holes"
