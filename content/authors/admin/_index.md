@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Luca Visinelli
-role: Post-Doctoral Researcher at GRAPPA, University of Amsterdam
+role: Post-Doctoral Researcher
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
   - Particle Astrophysics
