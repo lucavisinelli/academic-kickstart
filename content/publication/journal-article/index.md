@@ -15,11 +15,11 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: "*Physics Reports 870, 1 (2020)*"
+publication_short: ""
 
 abstract: We review the landscape of QCD axion models. Theoretical constructions that extend the window for the axion mass and couplings beyond conventional regions are highlighted and classified. Bounds from cosmology, astrophysics and experimental searches are reexamined and updated.
 
