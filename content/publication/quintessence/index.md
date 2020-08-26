@@ -21,10 +21,10 @@ publication_types: ["2"]
 publication: "*Physics of the Dark Universe 26, 100385 (2019)*(1)"
 publication_short: ""
 
-abstract: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the LambdaCDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
+abstract: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the $\Lambda$CDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
 
 # Summary. An optional shortened abstract.
-summary: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the LambdaCDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
+summary: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the $\Lambda$CDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
 
 tags:
 - Dark Energy
