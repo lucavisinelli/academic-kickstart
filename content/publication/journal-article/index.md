@@ -31,9 +31,10 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Journal Link
   url: https://www.sciencedirect.com/science/article/abs/pii/S0370157320302477
-url_pdf: https://arxiv.org/pdf/2003.01100.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/2003.01100
 url_code: ''
 url_dataset: ''
 url_poster: ''
