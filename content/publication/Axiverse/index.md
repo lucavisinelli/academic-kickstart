@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Physical Review D 99, 063517 (2019)*"
 publication_short: ""
 
-abstract: The low-energy limit of several string theories feature what is known as the axiverse,
+abstract: The low-energy limit of several string theories feature the axiverse, a plethora of light axions with masses spanning various orders of magnitude. Within the simplest picture, the masses of the resulting axions depend on a hard non-perturbative scale related to the supersymmetry breaking scale $M_{\rm susy}$, and the dimensionless instanton action $S$ responsible for breaking the axion shift symmetry. We explore whether these two parameters can be probed using cosmology, taking into account current limits on the tensor-to-scalar ratio and the primordial isocurvature fraction, and measurements of the dark matter energy density today. Adopting string-inspired flat priors on $\log_{10}M_{\rm susy}$ and $S$, and imposing that $M_{\rm susy}$ be sub-Planckian, we find $S=198\pm28$ at 68\%~C.L., in striking agreement with the theoretical expectation that $S \approx 200$, whereas $M_{\rm susy}$ remains unconstrained.
 
 # Summary. An optional shortened abstract.
 # summary: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the $\Lambda$CDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
@@ -31,7 +31,7 @@ featured: false
 # links:
 links:
 - name: Journal Link
-  url: https://www.sciencedirect.com/science/article/pii/S2212686419302134?via\%3Dihub
+  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.063517
 - name: ArXiv
   url: https://arxiv.org/abs/1809.06382
 url_code: ''
