@@ -1,10 +1,8 @@
 ---
-title: "Late time transitions in the quintessence field and the H0 tension"
+title: "Cosmological window onto the string axiverse and the supersymmetry breaking scale"
 authors:
-- Eleonora di Valentno
-- Ricardo Z. Ferreira
 - admin
-- Ulf Danielsson
+- Sunny Vagnozzi
 date: "2019-12-01T00:00:00Z"
 doi: "10.1016/j.dark.2019.100385"
 
