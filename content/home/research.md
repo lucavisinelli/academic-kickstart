@@ -24,15 +24,16 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-  
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
 
+  [[content.filter_button]]
+    name = "Axions"
+    tag = "Axions"
+    My research interests lie broadly at the intersection of cosmology, astrophysics, and particle physics. I work at the interface of  data analysis, theory, phenomenology, and experiments. My goal, through precision cosmological and astrophysical data, is: to identify those models which best describe our Universe, and in particular its dark components - dark matter (DM) and dark energy (DE); to constrain the parameters of these models and define goals for future experiments; and likewise to construct viable data-driven theoretical models. This back-and-forth interplay between existing data, future experiments, and theory, represents my main research strength.
+
+  [[content.filter_button]]
+    name = "Dark Matter"
+    tag = "Dark Matter"
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
