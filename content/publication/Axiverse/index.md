@@ -1,10 +1,12 @@
 ---
-title: "Cosmological window onto the string axiverse and the supersymmetry breaking scale"
+title: "Late time transitions in the quintessence field and the H0 tension"
 authors:
+- Eleonora di Valentno
+- Ricardo Z. Ferreira
 - admin
-- Sunny Vagnozzi
-date: "2019-03-15T00:00:00Z"
-doi: "10.1103/PhysRevD.99.063517"
+- Ulf Danielsson
+date: "2019-12-01T00:00:00Z"
+doi: "10.1016/j.dark.2019.100385"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -16,14 +18,13 @@ doi: "10.1103/PhysRevD.99.063517"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review D 99 6, 063517 (2019)*(1)"
+publication: "*Physics of the Dark Universe 26, 100385 (2019)*"
 publication_short: ""
 
-abstract: In the simplest picture, the masses of string axions populating the axiverse depend on two parameters: the supersymmetry breaking scale $M_{\rm susy}$ and the action $S$ of the string instantons responsible for breaking the axion shift symmetry. In this work, we explore whether cosmological data can be used to probe these two parameters. Adopting string-inspired flat priors on $\log_{10}M_{\rm susy}$ and $S$, and imposing that $M_{\rm susy}$ be sub-Planckian, we find $S=198\pm 28$. These bounds suggest that cosmological data complemented with string-inspired priors select a quite narrow axion mass range within the axiverse, $\log_{10}\(m_a/{\rm eV}\) = -21.5^{+1.3}_{-2.3}$. We find that $M_{\rm susy}$ remains unconstrained due to a fundamental parameter degeneracy with $S$. We explore the significant impact of other choices of priors on the results, and we comment on similar findings in recent previous literature.
-
+abstract: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the $\Lambda$CDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
 
 # Summary. An optional shortened abstract.
-# summary: In the simplest picture, the masses of string axions populating the axiverse depend on two parameters: the supersymmetry breaking scale $M_{\rm susy}$ and the action $S$ of the string instantons responsible for breaking the axion shift symmetry. In this work, we explore whether cosmological data can be used to probe these two parameters. Adopting string-inspired flat priors on $\log_{10}M_{\rm susy}$ and $S$, and imposing that $M_{\rm susy}$ be sub-Planckian, we find $S=198\pm 28$. These bounds suggest that cosmological data complemented with string-inspired priors select a quite narrow axion mass range within the axiverse, $\log_{10}\(m_a/{\rm eV}\) = -21.5^{+1.3}_{-2.3}$. We find that $M_{\rm susy}$ remains unconstrained due to a fundamental parameter degeneracy with $S$. We explore the significant impact of other choices of priors on the results, and we comment on similar findings in recent previous literature.
+# summary: We consider a quintessence field which transitions from a matter-like to a cosmological constant behaviour between recombination and the present time. We aim at easing the tension in the measurement of the present Hubble rate, and we assess the $\Lambda$CDM model properly enlarged to include our quintessence field against cosmological observations. The model does not address the scope we proposed. This result allows us to exclude a class of quintessential models as a solution to the tension in the Hubble constant measurements.
 
 tags:
 - Dark Energy
@@ -32,9 +33,9 @@ featured: false
 # links:
 links:
 - name: Journal Link
-  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.063517
+  url: https://www.sciencedirect.com/science/article/pii/S2212686419302134?via\%3Dihub
 - name: ArXiv
-  url: https://arxiv.org/abs/1809.06382
+  url: https://arxiv.org/abs/1906.11255
 url_code: ''
 url_dataset: ''
 url_poster: ''
