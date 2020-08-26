@@ -31,9 +31,11 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+links:
+- name: Journal Link
+  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.044057
+- name: ArXiv
+  url: https://arxiv.org/abs/1904.12983
 url_code: ''
 url_dataset: ''
 url_poster: ''
