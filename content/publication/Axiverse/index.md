@@ -7,7 +7,7 @@ date: "2019-03-15T00:00:00Z"
 doi: "10.1103/PhysRevD.99.063517"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ abstract: In the simplest picture, the masses of string axions populating the ax
 
 
 # Summary. An optional shortened abstract.
-summary: In the simplest picture, the masses of string axions populating the axiverse depend on two parameters: the supersymmetry breaking scale $M_{\rm susy}$ and the action $S$ of the string instantons responsible for breaking the axion shift symmetry. In this work, we explore whether cosmological data can be used to probe these two parameters. Adopting string-inspired flat priors on $\log_{10}M_{\rm susy}$ and $S$, and imposing that $M_{\rm susy}$ be sub-Planckian, we find $S=198\pm 28$. These bounds suggest that cosmological data complemented with string-inspired priors select a quite narrow axion mass range within the axiverse, $\log_{10}\(m_a/{\rm eV}\) = -21.5^{+1.3}_{-2.3}$. We find that $M_{\rm susy}$ remains unconstrained due to a fundamental parameter degeneracy with $S$. We explore the significant impact of other choices of priors on the results, and we comment on similar findings in recent previous literature.
+# summary: In the simplest picture, the masses of string axions populating the axiverse depend on two parameters: the supersymmetry breaking scale $M_{\rm susy}$ and the action $S$ of the string instantons responsible for breaking the axion shift symmetry. In this work, we explore whether cosmological data can be used to probe these two parameters. Adopting string-inspired flat priors on $\log_{10}M_{\rm susy}$ and $S$, and imposing that $M_{\rm susy}$ be sub-Planckian, we find $S=198\pm 28$. These bounds suggest that cosmological data complemented with string-inspired priors select a quite narrow axion mass range within the axiverse, $\log_{10}\(m_a/{\rm eV}\) = -21.5^{+1.3}_{-2.3}$. We find that $M_{\rm susy}$ remains unconstrained due to a fundamental parameter degeneracy with $S$. We explore the significant impact of other choices of priors on the results, and we comment on similar findings in recent previous literature.
 
 tags:
 - Dark Energy
