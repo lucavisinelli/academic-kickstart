@@ -8,7 +8,7 @@ tags:
   - Axions
 external_link: https://en.wikipedia.org/wiki/Axion
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
