@@ -26,13 +26,21 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
+    name = "Dark Matter"
+    tag = "Dark Matter"
+
+[[content.filter_button]]
     name = "Axions"
     tag = "Axions"
 
   [[content.filter_button]]
-    name = "Dark Matter"
-    tag = "Dark Matter"
-  
+    name = "Dark Energy"
+    tag = "Dark Energy"
+
+  [[content.filter_button]]
+    name = "Black Holes"
+    tag = "Black Holes"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
