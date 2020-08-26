@@ -3,8 +3,8 @@ title: "Cosmological window onto the string axiverse and the supersymmetry break
 authors:
 - admin
 - Sunny Vagnozzi
-date: "2019-12-01T00:00:00Z"
-doi: "10.1016/j.dark.2019.100385"
+date: "2019-03-15T00:00:00Z"
+doi: "10.1103/PhysRevD.99.063517"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ links:
 - name: Journal Link
   url: https://www.sciencedirect.com/science/article/pii/S2212686419302134?via\%3Dihub
 - name: ArXiv
-  url: https://arxiv.org/abs/1906.11255
+  url: https://arxiv.org/abs/1809.06382
 url_code: ''
 url_dataset: ''
 url_poster: ''
