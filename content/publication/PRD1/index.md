@@ -18,7 +18,7 @@ doi: "10.1103/PhysRevD.100.044057"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review D 100 (4), 044057  (2019)*(1)"
+publication: "*Physical Review D 100 (4), 044057  (2019)*"
 publication_short: ""
 
 abstract: The Event Horizon Telescope (EHT) collaboration has recently released the first image of a black hole (BH), opening a new window onto tests of general relativity in the strong field regime. In this paper, we derive constraints on the nature of M87* (the supermassive object at the center of the galaxy M87), exploiting the fact that its shadow appears to be highly circular, and using measurements of its angular size.
