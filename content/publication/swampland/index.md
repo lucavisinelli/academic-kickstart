@@ -8,7 +8,7 @@ date: "2019-05-13T00:00:00Z"
 doi: "10.1088/1361-6382/ab1d87"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,7 @@ abstract: We consider single-field inflation in light of string-motivated swampl
 
 
 # Summary. An optional shortened abstract.
-summary: We consider single-field inflation in light of string-motivated swampland conjectures suggesting that effective scalar field theories with a consistent UV completion must have field excursion $\Delta \phi \lesssim M_{\rm Pl}$, in combination with a sufficiently steep potential, $M_{\rm Pl} V_\phi/V \gtrsim {\cal O}(1)$. Here, we show that the swampland conjectures are inconsistent with existing observational constraints on single-field inflation. Focusing on the observationally favoured class of concave potentials, we map the allowed swampland region onto the $n_S$-$r$ zoo plot of inflationary models, and find that consistency with the Planck satellite and BICEP2/Keck Array requires $M_{\rm Pl} V_\phi/V \lesssim 0.1$ and $-0.02 \lesssim M_{\rm Pl}^2 V_{\phi\phi}/V < 0$, in strong tension with swampland conjectures. Extension to non-canonical models such as DBI Inflation does not significantly weaken the bound.
+# summary: We consider single-field inflation in light of string-motivated swampland conjectures suggesting that effective scalar field theories with a consistent UV completion must have field excursion $\Delta \phi \lesssim M_{\rm Pl}$, in combination with a sufficiently steep potential, $M_{\rm Pl} V_\phi/V \gtrsim {\cal O}(1)$. Here, we show that the swampland conjectures are inconsistent with existing observational constraints on single-field inflation. Focusing on the observationally favoured class of concave potentials, we map the allowed swampland region onto the $n_S$-$r$ zoo plot of inflationary models, and find that consistency with the Planck satellite and BICEP2/Keck Array requires $M_{\rm Pl} V_\phi/V \lesssim 0.1$ and $-0.02 \lesssim M_{\rm Pl}^2 V_{\phi\phi}/V < 0$, in strong tension with swampland conjectures. Extension to non-canonical models such as DBI Inflation does not significantly weaken the bound.
 
 tags:
 - Inflation
