@@ -8,10 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "Ten representative publications. For full list of publications and preprints with bibliometric details see
-- name: my INSPIRE profile,
-  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.064039
-my ADS profile, and my Google Scholar profile"
+subtitle = "Ten representative publications. For full list of publications and preprints with bibliometric details see my INSPIRE profile [http://inspirehep.net/author/profile/L.Visinelli.1], my ADS profile, and my Google Scholar profile"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
