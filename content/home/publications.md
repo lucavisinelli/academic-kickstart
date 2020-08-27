@@ -8,9 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "Ten representative publications <p>
-<script> document.write(new Date().toLocaleDateString()); </script>
-</p>"
+subtitle = "Ten representative publications"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
