@@ -7,9 +7,6 @@ authors:
 date: "2019-05-13T00:00:00Z"
 doi: "10.1088/1361-6382/ab1d87"
 
-# Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -28,7 +25,7 @@ abstract: We consider single-field inflation in light of string-motivated swampl
 
 tags:
 - Inflation
-featured: false
+featured: true
 
 # links:
 links:
