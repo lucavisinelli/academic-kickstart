@@ -8,7 +8,9 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "Ten main representative publications. For full list of publications and preprints with bibliometric details see my INSPIRE profile, my ADS profile, and my Google Scholar profile"
+subtitle = "Ten representative publications.
+
+For full list of publications and preprints with bibliometric details see my INSPIRE profile, my ADS profile, and my Google Scholar profile"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
