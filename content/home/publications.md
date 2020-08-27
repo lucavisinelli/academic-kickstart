@@ -15,7 +15,7 @@ subtitle = "Ten representative publications. For full list of publications and p
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -37,7 +37,7 @@ subtitle = "Ten representative publications. For full list of publications and p
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
