@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "Ten representative publications. For full list of publications and preprints with bibliometric details see my INSPIRE profile [http://inspirehep.net/author/profile/L.Visinelli.1], my ADS profile, and my Google Scholar profile"
+subtitle = "Ten representative publications"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,5 +68,6 @@ subtitle = "Ten representative publications. For full list of publications and p
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+For full list of publications and preprints with bibliometric details see <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> my INSPIRE profile [http://inspirehep.net/author/profile/L.Visinelli.1], my ADS profile, and my Google Scholar profile
+ # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
