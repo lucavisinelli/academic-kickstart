@@ -28,6 +28,8 @@ header:
 featured: true
 tags:
   - Axions
+projects:
+  - axions
 image:
   filename: skymap_moll.png
   preview_only: true
