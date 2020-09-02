@@ -23,6 +23,8 @@ publishDate: 2020-09-02T17:24:37.859Z
 draft: false
 featured: true
 tags:
+  - Axions
+projects:
   - axions
 image:
   filename: featured
