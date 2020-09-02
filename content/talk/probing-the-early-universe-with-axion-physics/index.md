@@ -16,16 +16,16 @@ abstract: Axions and axion-like particles are excellent dark matter candidates,
 location: Sydney (AU)
 date: 2019-12-02T06:00:00.000Z
 date_end: 2019-12-06T16:00:00.000Z
-all_day: true
+all_day: false
 event: TeVPA
 event_url: https://indi.to/7Fstq
 publishDate: 2020-09-02T17:24:37.859Z
-draft: true
+draft: false
 featured: true
 tags:
   - axions
 image:
   filename: featured
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
