@@ -19,7 +19,7 @@ date_end: 2019-12-06T16:00:00.000Z
 all_day: false
 event: TeVPA
 event_url: https://indi.to/7Fstq
-publishDate: 2020-09-02T17:24:37.859Z
+publishDate: 2020-09-02T18:05:45.196Z
 draft: false
 featured: true
 tags:
