@@ -15,7 +15,7 @@ abstract: Axions and axion-like particles are excellent dark matter candidates,
 location: Online videoconference
 date: 2020-08-25T15:00:00.000Z
 date_end: 2020-08-25T16:00:00.000Z
-all_day: true
+all_day: false
 event: Cosmology from Home
 event_url: https://www.youtube.com/watch?v=Ie7VeywoSJg&feature=youtu.be
 publishDate: 2020-09-02T16:49:34.848Z
@@ -25,7 +25,7 @@ view: 2
 header:
   caption: ""
   image: ""
-featured: false
+featured: true
 tags:
   - Axions
 projects:
