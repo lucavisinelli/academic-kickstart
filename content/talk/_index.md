@@ -18,14 +18,16 @@ date_end: 2020-08-25T16:00:00.000Z
 all_day: true
 event: Cosmology from Home (Online videoconference)
 event_url: https://www.youtube.com/watch?v=Ie7VeywoSJg&feature=youtu.be
+publishDate: 2020-09-02T16:49:34.848Z
 slides: https://www.cosmologyfromhome.com/wp-content/uploads/2020/08/PAT_Slides_CfH2020_Luca_Visinelli.pdf
 draft: true
 view: 2
 header:
   caption: ""
   image: ""
-publishDate: 2020-09-02T16:49:34.848Z
 featured: true
+tags:
+  - Axions
 image:
   filename: skymap_moll.png
   preview_only: true
