@@ -12,25 +12,25 @@ abstract: Axions and axion-like particles are excellent dark matter candidates,
   at GRAPPA on the new branch of "axion radio-astronomy" that involves neutron
   stars and axions. I will then assess the formation and the evolution of axion
   stars in various astrophysical regimes.
-location: Cosmology from Home (Online videoconference)
+location: Online videoconference
 date: 2020-08-25T15:00:00.000Z
 date_end: 2020-08-25T16:00:00.000Z
 all_day: true
-event: Cosmology from Home (Online videoconference)
+event: Cosmology from Home
 event_url: https://www.youtube.com/watch?v=Ie7VeywoSJg&feature=youtu.be
 publishDate: 2020-09-02T16:49:34.848Z
 slides: https://www.cosmologyfromhome.com/wp-content/uploads/2020/08/PAT_Slides_CfH2020_Luca_Visinelli.pdf
-draft: true
+draft: false
 view: 2
 header:
   caption: ""
   image: ""
-featured: true
+featured: false
 tags:
   - Axions
 projects:
   - axions
 image:
   filename: skymap_moll.png
-  preview_only: true
+  preview_only: false
 ---
