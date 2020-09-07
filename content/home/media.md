@@ -37,7 +37,7 @@ subtitle = "Selected media coverage of my research"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
