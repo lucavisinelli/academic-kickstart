@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "outreach"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Buchi Neri e Onde Gravitazionali (In Italian)"
     tag = "Black Holes"
+    
+  [[content.filter_button]]
+    name = "Galileo"
+    tag = "galileo"
   
   # [[content.filter_button]]
   #   name = "Other"
