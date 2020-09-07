@@ -1,5 +1,5 @@
 ---
-title: Probing the Early Universe with Axion Physics
+draft: true
 abstract: Axions and axion-like particles are excellent dark matter candidates,
   spanning a vast range of mass scales from the milli- and micro-eV for the QCD
   axion, to 10−22 eV for ultralight axions, to even lighter candidates that make
@@ -13,19 +13,26 @@ abstract: Axions and axion-like particles are excellent dark matter candidates,
   effects of miniclusters on the gravitational microlensing and on direct
   detection. I will then assess the formation and the evolution of axion stars
   in various astrophysical regimes.
-location: Sydney (AU)
-date: 2019-12-02T06:00:00.000Z
 date_end: 2019-12-06T16:00:00.000Z
-all_day: true
-event: TeVPA
 event_url: https://indi.to/7Fstq
-publishDate: 2020-09-02T17:24:37.859Z
-draft: true
+title: Buchi Neri e Onde Gravitazionali - la ricerca in Italia
+date: 2019-12-02T06:00:00.000Z
 featured: true
 tags:
-  - axions
+  - gravitational waves
+external_link: https://www.youtube.com/watch?v=qYYjgDo5BA8
+location: Sydney (AU)
+links:
+  - url: https://www.youtube.com/watch?v=qYYjgDo5BA8
+    name: "Part 1: https://www.youtube.com/watch?v=qYYjgDo5BA8"
+  - url: https://www.youtube.com/watch?v=MIigLkmVEBQ
+    name: "Part 2: https://www.youtube.com/watch?v=MIigLkmVEBQ"
+event: TeVPA
 image:
-  filename: featured
+  filename: download.jpeg
   focal_point: Smart
   preview_only: true
+publishDate: 2020-09-02T17:24:37.859Z
+all_day: true
 ---
+Cos'è la fisica? Qual è il mestiere dello scienziato? Cosa sono i buchi neri? Come si rilevano le onde gravitazionali? Qual è il ruolo della ricerca in Italia? Queste e tante altre domande nella presentazione del lavoro del fisico Luca Visinelli (GRAPPA, Università di Amsterdam) tenutasi a Loiano (Bologna) il 16 Agosto 2020!
