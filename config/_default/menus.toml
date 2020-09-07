@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Mediia"
-  url = "#media"
+  name = "Teaching"
+  url = "#teaching"
   weight = 30
 
 [[main]]
@@ -28,17 +28,19 @@
   url = "#publications"
   weight = 50
 
-# [[main]]
-#  name = "Outreach"
-#  url = "#outreach"
-#  weight = 60
-
 [[main]]
-  name = "Curriculum Vitae"
-  url = "cv.pdf"
-  weight = 65
-   
+  name = "Outreach"
+  url = "#outreach"
+  weight = 60
+
 [[main]]
   name = "Contacts"
   url = "#contact"
   weight = 70
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+   name = "Curriculum Vitae"
+   url = "cv.pdf"
+   weight = 65
