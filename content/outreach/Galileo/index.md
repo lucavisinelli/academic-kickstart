@@ -23,7 +23,7 @@ publishDate: 2020-09-02T17:24:37.859Z
 draft: true
 featured: true
 tags:
-  - axions
+  - Axions
 image:
   filename: featured
   focal_point: Smart
