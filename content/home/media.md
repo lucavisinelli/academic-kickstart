@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Dark Matter"
-    tag = "Dark Matter"
+    tag = "gravitational waves"
 
   [[content.filter_button]]
     name = "Dark Energy"
