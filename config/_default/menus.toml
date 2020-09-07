@@ -13,10 +13,10 @@
   url = "#research"
   weight = 20
 
-[[main]]
-  name = "Media"
-  url = "#media"
-  weight = 110
+# [[main]]
+#  name = "Media"
+#  url = "#media"
+#  weight = 110
 
 [[main]]
   name = "Talks"
@@ -28,10 +28,10 @@
   url = "#publications"
   weight = 50
 
-[[main]]
-  name = "Outreach"
-  url = "#outreach"
-  weight = 60
+# [[main]]
+#  name = "Outreach"
+#  url = "#outreach"
+#  weight = 60
 
 [[main]]
   name = "Contacts"
