@@ -27,7 +27,7 @@ subtitle = ""
     
   [[content.filter_button]]
     name = "Buchi Neri e Onde Gravitazionali"
-    tag = "Black Holes"
+    tag = "gravitational waves"
     
   [[content.filter_button]]
     name = "Galileo, padre della fisica moderna"
@@ -35,7 +35,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "La fisica di Interstellar"
-    tag = "Black Holes"
+    tag = "interstellar"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
