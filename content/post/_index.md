@@ -1,14 +1,14 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Interview with LUCA VISINELLI at Oskar Klein Centre, Stockholm
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2020-09-06T18:59:14.113Z
+draft: false
+featured: false
+image:
+  preview_only: false
+  filename: image.jpg
 ---
+The interview I gave for public outreach at Oskar Klein Centre is available at <https://ssl.fysik.su.se/okc/internal/blog/interview-with-luca-visinelli/>
