@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-The full list of invited talks and seminars can be found here
+The full list of invited talks and seminars can be found {{% staticref "content/home/talks.pdf" %}}here{{% /staticref %}}
 {{% /alert %}}
