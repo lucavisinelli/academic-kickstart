@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-For full list of publications and preprints with bibliometric details see <p> <a href="http://inspirehep.net/author/profile/L.Visinelli.1">my INSPIRE profile</a>, <a href="https://orcid.org/0000-0001-7958-8940">my ORCID profile</a>, and <a href="https://scholar.google.it/citations?user=9w4cYvoAAAAJ&hl=en">my Google Scholar profile</a>.
+The full list of invited talks and seminars can be found here
 {{% /alert %}}
