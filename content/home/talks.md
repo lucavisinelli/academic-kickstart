@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Inviteed Talks"
+title = "Invited Talks"
 subtitle = ""
 
 [content]
@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-The full list of invited talks and seminars can be found {{% staticref "content/home/talks.pdf" %}}here{{% /staticref %}}
+The full list of invited talks and seminars can be found {{% staticref "talks.pdf" %}}here{{% /staticref %}}
 {{% /alert %}}
