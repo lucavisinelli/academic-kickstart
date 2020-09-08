@@ -28,10 +28,10 @@
   url = "#publications"
   weight = 50
 
-[[main]]
-  name = "Outreach"
-  url = "#outreach"
-  weight = 60
+# [[main]]
+#   name = "Outreach"
+#   url = "#outreach"
+#   weight = 60
 
 [[main]]
   name = "Contacts"
