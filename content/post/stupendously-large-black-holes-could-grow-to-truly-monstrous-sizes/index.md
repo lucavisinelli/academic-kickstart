@@ -4,7 +4,7 @@ date: 2020-09-27T17:11:59.750Z
 draft: false
 featured: false
 image:
-  filename: gsmkoze98cwmfz7mqlh9vj-1024-80.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
