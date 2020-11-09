@@ -4,7 +4,7 @@ date: 2020-06-19T19:35:34.219Z
 draft: false
 featured: false
 image:
-  filename: visinelli1_06155334.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
