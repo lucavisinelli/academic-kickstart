@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Luca Visinelli
-role: Fellini - Marie Skłodowska-Curie Fellow
+role: "Fellini" Marie Skłodowska-Curie Fellow
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
   - Particle Astrophysics
