@@ -1,19 +1,19 @@
 ---
 organizations:
-  - name: Gravitation, AstroParticles Physics Amsterdam (GRAPPA)
-    url: http://grappa.amsterdam/
+  - name: INFN Laboratori Nazionali di Frascati
+    url: http://w3.lnf.infn.it
 superuser: true
 authors:
   - admin
 title: Luca Visinelli
-role: Post-Doctoral Researcher
+role: "Fellini" & Marie Skłodowska-Curie Fellow
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
   - Particle Astrophysics
   - Dark Matter modeling
   - Black Holes signatures (shadows, gravitational waves)
 social:
-  - link: mailto:l.visinelli@uva.nl
+  - link: mailto:luca.visinelli@lnf.infn.it
     icon_pack: far
     icon: envelope
   - icon_pack: fab
@@ -47,6 +47,5 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a post-doctoral researcher at Gravitation, AstroParticles Physics Amsterdam (GRAPPA). I also hold a "Fellini" Marie Skłodowska-Curie Fellowship at the National Institute of Nuclear Physics (INFN) in Frascati (Italy), starting 2021. I was previously a postdoc at NORDITA and Stockholm University, and a graduate student at The University of Utah.
-
+I am a "Fellini" Marie Skłodowska-Curie Fellow at the National Institute of Nuclear Physics (INFN) in Frascati (Italy). I was previously a post-doctoral fellow at the Gravitation, AstroParticles Physics Amsterdam (GRAPPA), a postdoc at NORDITA, Stockholm University, Uppsala University, and a graduate student at The University of Utah.
 My research activity spans various interesting topics including particle astrophysics, dark matter, dark energy, and black holes. I have focused in exploring the role the axion as a dark matter candidate, for which I co-wrote a review on Physics Report in 2020.
