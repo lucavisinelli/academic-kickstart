@@ -4,7 +4,7 @@ date: 2020-12-01T10:31:09.852Z
 draft: false
 featured: false
 image:
-  filename: enq-yn2xeau7awm.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
