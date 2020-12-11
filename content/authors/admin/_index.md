@@ -47,6 +47,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a "Fellini" Marie Skłodowska-Curie Fellow at the National Institute of Nuclear Physics (INFN) in Frascati (Italy). I was previously a post-doctoral fellow at the Gravitation, AstroParticles Physics Amsterdam (GRAPPA), a postdoc at NORDITA, Stockholm University, Uppsala University, and a graduate student at The University of Utah.
+I am a "Fellini" Marie Skłodowska-Curie Fellow at the National Institute of Nuclear Physics (INFN) in Frascati (Italy). I was previously a post-doctoral fellow at the Gravitation, AstroParticles Physics Amsterdam (GRAPPA), a postdoc at NORDITA, Stockholm University, Uppsala University, and a graduate student at The University of Utah in Salt Lake City, UT (USA).
 
 My research activity spans various interesting topics including particle astrophysics, dark matter, dark energy, and black holes. I have focused in exploring the role the axion as a dark matter candidate, for which I co-wrote a review on Physics Report in 2020.
