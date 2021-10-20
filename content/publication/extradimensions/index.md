@@ -21,8 +21,8 @@ publication_short: ""
 abstract: The QCD axion is expected to form dense structures known as axion miniclusters if the Peccei-Quinn symmetry is broken after inflation. Miniclusters that have survived until today would interact with the population of neutron stars (NSs) in the Milky Way to produce transient radio signals from axion-photon conversion in the NS magnetosphere. Here, we quantify the rate, duration, sky location, and brightness of these interactions for two different minicluster internal density profiles. For both density profiles, we find that these interactions: will occur frequently $(\mathcal{O}\left(1−100\right)\,day^{-1})$; last between a day and a few months; are spatially clustered towards the Galactic center; and can reach observable fluxes. Searching for these transient signatures, which are within the reach of current generation telescopes, therefore offers a promising pathway to discovering QCD axion dark matter.
 
 tags:
-- Dark matter
-featured: true
+- axions
+featured: false
 
 # links:
 links:
