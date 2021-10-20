@@ -1,11 +1,12 @@
 ---
 title: "Brane-world extra dimensions in light of GW170817"
 authors:
+- Thomas D.P. Edwards
+- Bradley J. Kavanagh
 - admin
-- Nadia Bolis
-- Sunny Vagnozzi
-date: "2018-03-29T00:00:00Z"
-doi: "10.1103/PhysRevD.97.064039"
+- Christoph Weniger
+date: "2021-09-23T00:00:00Z"
+doi: "10.1103/PhysRevLett.127.131103"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -14,21 +15,21 @@ doi: "10.1103/PhysRevD.97.064039"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review D 97, 064039 (2018)*"
+publication: "*Physical Review Letters 127, 131103 (2021)*"
 publication_short: ""
 
-abstract: The search for extra dimensions is a challenging endeavour to probe physics beyond the Standard Model. The joint detection of gravitational waves (GW) and electromagnetic (EM) signals from the merging of a binary system of compact objects like neutron stars (NS), can help constrain the geometry of extra dimensions beyond our 3+1 spacetime ones. A theoretically well-motivated possibility is that our observable Universe is a 3+1-dimensional hypersurface, or brane, embedded in a higher 4+1-dimensional Anti-de Sitter (AdS$_5$) spacetime, in which gravity is the only force which propagates through the infinite bulk space, while other forces are confined to the brane. In these types of brane-world models, GW and EM signals between two points on the brane would, in general, travel different paths. This would result in a time-lag between the detection of GW and EM signals emitted simultaneously from the same source. We consider the recent near-simultaneous detection of the GW event GW170817 from the LIGO/Virgo collaboration, and its EM counterpart, the short gamma-ray burst GRB170817A detected by the \textit{Fermi} Gamma-ray Burst Monitor and the \textit{INTEGRAL} Anti-Coincidence Shield spectrometer. Assuming the standard $\Lambda$-Cold Dark Matter ($\Lambda$CDM) scenario and performing a likelihood analysis which takes into account astrophysical uncertainties associated to the measured time-lag, we set an upper limit of $\ell \lesssim 0.535\,$Mpc at $68\%$ confidence level on the AdS$_5$ radius of curvature $\ell$. Although the bound is not competitive with current Solar System constraints, it is the first time that data from a multi-messenger GW-EM measurement is used to constrain extra-dimensional models. Thus, our work provides a proof-of-principle for the possibility of using multi-messenger astronomy for probing the geometry of our space-time.
+abstract: The QCD axion is expected to form dense structures known as axion miniclusters if the Peccei-Quinn symmetry is broken after inflation. Miniclusters that have survived until today would interact with the population of neutron stars (NSs) in the Milky Way to produce transient radio signals from axion-photon conversion in the NS magnetosphere. Here, we quantify the rate, duration, sky location, and brightness of these interactions for two different minicluster internal density profiles. For both density profiles, we find that these interactions: will occur frequently $(\mathcal{O}\left(1−100\right)\,day^{-1})$; last between a day and a few months; are spatially clustered towards the Galactic center; and can reach observable fluxes. Searching for these transient signatures, which are within the reach of current generation telescopes, therefore offers a promising pathway to discovering QCD axion dark matter.
 
 tags:
-- Gravitational Waves
-featured: false
+- Dark matter
+featured: true
 
 # links:
 links:
 - name: Journal Link
-  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.064039
+  url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.131103
 - name: ArXiv
-  url: https://arxiv.org/abs/1711.06628
+  url: https://arxiv.org/abs/2011.05378
 url_code: ''
 url_dataset: ''
 url_poster: ''
