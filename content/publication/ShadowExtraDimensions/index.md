@@ -1,10 +1,13 @@
 ---
-title: "Hunting for extra dimensions in the shadow of M87*"
+title: "Direct detection of dark energy: The XENON1T excess and future prospects"
 authors:
 - Sunny Vagnozzi
 - admin
-date: "2019-07-12T00:00:00Z"
-doi: "10.1103/PhysRevD.100.024020"
+- Philippe Brax
+- Anne-Christine Davis
+- Jeremy Sakstein
+date: "2021-09-15T00:00:00Z"
+doi: "10.1103/PhysRevD.104.063023"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -13,21 +16,21 @@ doi: "10.1103/PhysRevD.100.024020"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review D 100 (2), 024020 (2019)*"
+publication: "*Physical Review D 104 (6), 063023 (2021)*"
 publication_short: ""
 
-abstract: The Event Horizon Telescope has recently provided the first image of the dark shadow around the supermassive black hole M87*. The observation of a highly circular shadow provides strong limits on deviations of M87*'s quadrupole moment from the Kerr value. We show that the absence of such a deviation can be used to constrain the physics of extra dimensions of spacetime. Focusing on the Randall-Sundrum AdS$_5$ brane-world scenario, we show that the observation of M87*'s dark shadow sets the limit $\ell \lesssim 170\,{\rm AU}$, where $\ell$ is the AdS$_5$ curvature radius. This limit is among the first quantitative constraints on exotic physics obtained from the extraordinary first ever image of the dark shadow of a black hole.
+abstract: We explore the prospects for direct detection of dark energy by current and upcoming terrestrial dark matter direct detection experiments. If dark energy is driven by a new light degree of freedom coupled to matter and photons then dark energy quanta are predicted to be produced in the Sun. These quanta free-stream toward Earth where they can interact with Standard Model particles in the detection chambers of direct detection experiments, presenting the possibility that these experiments could be used to test dark energy. Screening mechanisms, which suppress fifth forces associated with new light particles, and are a necessary feature of many dark energy models, prevent production processes from occurring in the core of the Sun, and similarly, in the cores of red giant, horizontal branch, and white dwarf stars. Instead, the coupling of dark energy to photons leads to production in the strong magnetic field of the solar tachocline via a mechanism analogous to the Primakoff process. This then allows for detectable signals on Earth while evading the strong constraints that would typically result from stellar probes of new light particles. As an example, we examine whether the electron recoil excess recently reported by the XENON1T collaboration can be explained by chameleon-screened dark energy, and find that such a model is preferred over the background-only hypothesis at the $2.0\sigma$ level, in a large range of parameter space not excluded by stellar (or other) probes. This raises the tantalizing possibility that XENON1T may have achieved the first direct detection of dark energy. Finally, we study the prospects for confirming this scenario using planned future detectors such as XENONnT, PandaX-4T, and LUX-ZEPLIN.
 
 tags:
-- Black Holes
+- Dark energy
 featured: true
 
 # links:
 links:
 - name: Journal Link
-  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.024020
+  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.063023
 - name: ArXiv
-  url: https://arxiv.org/abs/1905.12421
+  url: https://arxiv.org/abs/2103.15834
 url_code: ''
 url_dataset: ''
 url_poster: ''
