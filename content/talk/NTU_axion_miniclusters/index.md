@@ -18,7 +18,7 @@ all_day: false
 event: Cosmology Frontier in Particle Physics
 event_url: https://sites.google.com/phys.ncts.ntu.edu.tw/2021inter-joint-workshop/home
 publishDate: 2021-10-13T16:49:34.848Z
-slides: https://github.com/lucavisinelli/academic-kickstart/blob/master/static/slides/Axion2021.pdf
+slides: https://www.cosmologyfromhome.com/wp-content/uploads/2020/08/PAT_Slides_CfH2020_Luca_Visinelli.pdf
 draft: false
 view: 2
 header:
