@@ -1,6 +1,6 @@
 ---
 title: Luca Visinelli
-role: Tenure-track Associate Professor - Shanghai Jiao Tong University; Fellow, Tsung-Dao Lee Institute (TDLI)
+role: Tenure-track Associate Professor, Shanghai Jiao Tong University; Fellow, Tsung-Dao Lee Institute
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
   - Particle Astrophysics
