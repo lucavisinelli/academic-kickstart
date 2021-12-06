@@ -36,7 +36,7 @@ education:
     - course: BSc in Physics
       institution: University of Bologna, Italy
       year: 2007
-email: luca.visinelli@sjtu.edu.cn
+email: luca.visinelli@gmail.com
 superuser: true
 authors:
   - admin
