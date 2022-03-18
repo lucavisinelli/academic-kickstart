@@ -48,4 +48,4 @@ I am an Associate Professor in physics at [Shanghai Jiao Tong University](https:
 
 My research activity spans various interesting topics including particle astrophysics, dark matter, dark energy, and black holes. I have focused on exploring the role the axion as a dark matter candidate, for which I co-wrote a [review on Physics Report](https://www.sciencedirect.com/user/identity/landing?code=4V2hffr9561gPl_VXcou7D98hc85Zq6NI9Ai7DLP&state=retryCounter%3D0%26csrfToken%3Dc6c720d7-9376-460b-b798-f378521f7d25%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fabs%252Fpii%252FS0370157320302477%26prompt%3Dnone%26cid%3Darp-bd516642-2638-4e37-bf5e-66821f94a540) in 2020.
 
-My h-index is 31 according to [Inspire-HEP](https://inspirehep.net/authors/1269953), and my [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is four.
+My h-index is 310 according to [Inspire-HEP](https://inspirehep.net/authors/1269953), and my [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is four.
