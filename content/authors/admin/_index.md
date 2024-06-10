@@ -52,4 +52,4 @@ My research activity spans various interesting topics including particle astroph
 
 I have been awarded a "Research Fund For International Scientists" grant by the National Science Foundation of China in 2023. In 2022, I have been the co-recipient of the prestigious [Buchalter Cosmology Prize](http://www.buchaltercosmologyprize.org) for "opening new, unforeseen vistas for the scientific scope of direct detection dark matter experiments".
 
-My h-index is 40 according to [Inspire-HEP](https://inspirehep.net/authors/1269953), and my [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is 4.
+My h-index is 42 according to [Inspire-HEP](https://inspirehep.net/authors/1269953), and my [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is 4.
