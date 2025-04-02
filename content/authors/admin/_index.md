@@ -1,7 +1,6 @@
 ---
 title: Luca Visinelli
-role: Tenure-track Associate Professor, Shanghai Jiao Tong University; Fellow,
-  Tsung-Dao Lee Institute
+role: Tenure-track Assistant Professor, Università degli Studi di Salerno.
 avatar_filename: avatar.jpg
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
@@ -9,7 +8,7 @@ interests:
   - Dark Matter modeling
   - Black Holes signatures (shadows, gravitational waves)
 social:
-  - link: mailto:luca.visinelli@sjtu.edu.cn
+  - link: mailto:lvisinelli@unisa.it
     icon_pack: far
     icon: envelope
   - icon_pack: fab
