@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "luca.visinelli@sjtu.edu.cn"
-phone = "+86 183 1706 2099"
+email = "lvisinelli@unisa.it"
+phone = "+39 089 968126"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Shengrong Road 520", city = "Shanghai", postcode = "201210", country = "China", country_code = "CHN"}
+address = {street = "Via Giovanni Paolo II 132", city = "Fisciano (SA)", postcode = "84084", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.167812", longitude = "121.604394"}
+coordinates = {latitude = "40.775259", longitude = "14.788402"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -123,7 +123,7 @@ contact_links = [
 sharing_image = "pic1"
 
 #Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "luca_visinelli"
+#twitter = "luca_visinelli"
 
 ############################
 ## Regional Settings
