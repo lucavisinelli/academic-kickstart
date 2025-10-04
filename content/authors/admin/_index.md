@@ -1,6 +1,6 @@
 ---
 title: Luca Visinelli
-role: Tenure-track Assistant Professor, Università degli Studi di Salerno.
+role: Tenure-track Assistant Professor
 avatar_filename: avatar.jpg
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
@@ -22,10 +22,10 @@ social:
     link: https://www.researchgate.net/profile/Luca_Visinelli
   - icon: googlescholar
     icon_pack: fab
-    link: https://scholar.google.co.uk/citations?user=9w4cYvoAAAAJ
+    link: https://scholar.google.com/citations?user=9w4cYvoAAAAJ
 organizations:
-  - name: Tsung-Dao Lee Institute (TDLI), Shanghai
-    url: https://tdli.sjtu.edu.cn/EN/
+  - name: Università degli Studi di Salerno (Italy)
+    url: https://www.df.unisa.it/en
 education:
   courses:
     - course: PhD in Physics
