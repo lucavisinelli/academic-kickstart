@@ -7,8 +7,9 @@ weight: 30
 content:
   filters:
     sections:
-      - courses
+      - teaching
 
 design:
   view: compact
+
 ---
