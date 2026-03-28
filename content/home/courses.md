@@ -5,7 +5,7 @@ title: "Teaching"
 subtitle: ""
 
 content:
-  page_type: course
+  page_type: courses
   count: 5
 
 design:
