@@ -5,4 +5,4 @@ layout: docs
 
 ## Courses
 
-- [Cosmology and Astroparticles](cosmology-astroparticles-course/)
+- [Cosmology and Astroparticle Physics](cosmology-astroparticles-course/)
