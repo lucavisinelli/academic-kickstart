@@ -1,7 +1,7 @@
 ---
 title: "Cosmology and Astroparticles"
 date: 2026-03-28
-type: course
+type: courses
 toc: true
 ---
 
