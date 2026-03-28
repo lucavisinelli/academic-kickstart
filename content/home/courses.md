@@ -2,6 +2,7 @@
 widget: pages
 headless: true
 title: "Teaching"
+weight: 30
 
 content:
   filters:
@@ -9,5 +10,5 @@ content:
       - courses
 
 design:
-  view: list
+  view: compact
 ---
