@@ -10,6 +10,6 @@ content:
   offset: 0
 
 design:
-  view: card
+  view: compact
   columns: 2
 ---
