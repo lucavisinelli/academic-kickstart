@@ -6,7 +6,7 @@ weight: 30
 
 content:
   filters:
-    folders:
+    sections:
       - courses
 
 design:
