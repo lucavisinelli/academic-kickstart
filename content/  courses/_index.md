@@ -5,4 +5,4 @@ layout: docs
 
 ## Courses
 
-- [Dark Matter and Gravitational Physics](cosmology-astroparticles-course/)
+- [Cosmology and Astroparticles](cosmology-astroparticles-course/)
