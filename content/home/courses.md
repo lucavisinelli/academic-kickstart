@@ -1,8 +1,8 @@
 ---
-widget = "pages"
-headless = true
-title = "Graduate Course"
-subtitle = ""
+widget: pages
+headless: true
+title: "Graduate Course"
+subtitle: ""
 
 content:
   page_type: courses
