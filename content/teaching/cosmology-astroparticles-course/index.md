@@ -1,7 +1,7 @@
 ---
 title: "Cosmology and Astroparticles"
 date: 2025-01-01
-type: courses
+type: teaching
 toc: true
 draft: false
 ---
