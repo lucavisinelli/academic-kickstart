@@ -24,14 +24,14 @@
   weight = 40
 
 [[main]]
+  name = "Graduate Course"
+  url = "#courses"
+  weight = 45
+
+[[main]]
   name = "Publications"
   url = "#publications"
   weight = 50
-
-[[main]]
-  name = "Graduate Course"
-  url = "#courses"
-  weight = 40
   
 # [[main]]
 #   name = "Outreach"
