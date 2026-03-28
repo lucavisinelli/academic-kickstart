@@ -1,15 +1,13 @@
 ---
 widget: pages
 headless: true
-title: "Graduate Course"
+title: "Teaching"
 subtitle: ""
 
 content:
-  page_type: courses
+  page_type: course
   count: 5
-  offset: 0
 
 design:
   view: compact
-  columns: 2
 ---
