@@ -5,8 +5,9 @@ title: "Teaching"
 subtitle: ""
 
 content:
-  page_type: courses
-  count: 5
+  filters:
+    folders:
+      - courses
 
 design:
   view: compact
