@@ -15,7 +15,7 @@ Topics include particle candidates, astrophysical probes, and gravitational wave
 
 ## Course Notes
 
-- [Download full lecture notes](/files/course_notes.pdf)
+👉 **[📘 Download Lecture Notes (PDF)](/files/course_notes.pdf)**
 
 ---
 
