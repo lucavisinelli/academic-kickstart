@@ -8,7 +8,8 @@ title: Teaching
 content:
   filters:
     folders:
-      - teaching
+      - project
+    tag: teaching
 
 design:
   view: 2
