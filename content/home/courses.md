@@ -1,15 +1,19 @@
 ---
 widget: pages
 headless: true
-title: "Teaching"
-weight: 30
+active: true
+
+title: Courses
+weight: 45
 
 content:
   filters:
     sections:
       - teaching
+  sort_by: date
+  sort_ascending: false
+  count: 0
 
 design:
-  view: compact
-
+  view: 2
 ---
