@@ -1,9 +1,9 @@
 ---
 title: "Cosmology and Astroparticles"
 date: 2025-01-01
-type: teaching
-toc: true
 draft: false
+type: teaching
+summary: Graduate course on cosmology, dark matter, and gravitational physics.
 ---
 
 ## Overview
