@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Graduate Course"
-  url = "#courses"
+  name = "Teaching"
+  url = "#teaching"
   weight = 45
 
 [[main]]
