@@ -4,7 +4,7 @@ headless: true
 active: true
 
 title: Teaching
-weight: 50   # ensures it's after Talks
+weight: 45   # ensures it's after Talks
 
 content:
   filters:
