@@ -9,7 +9,8 @@ content:
   filters:
     folders:
       - project
-    tag: teaching
+    tags:
+      - teaching
 
 design:
   view: 2
