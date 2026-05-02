@@ -4,16 +4,13 @@ role: Tenure-track Assistant Professor
 avatar_filename: avatar.jpg
 bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
 interests:
-  - Particle Astrophysics
-  - Dark Matter modeling
-  - Black Holes signatures (shadows, gravitational waves)
+  - Particle astrophysics
+  - Dark matter modeling
+  - Black hole signatures (shadows, gravitational waves)
 social:
   - link: mailto:lvisinelli@unisa.it
     icon_pack: far
     icon: envelope
-  - icon_pack: fab
-    icon: skype
-    link: skype.com/luca.visinelli
   - icon: github
     icon_pack: fab
     link: https://github.com/lucavisinelli
@@ -37,7 +34,7 @@ education:
     - course: BSc in Physics
       institution: University of Bologna, Italy
       year: 2007
-email: luca.visinelli@gmail.com
+email: lvisinelli@unisa.it
 superuser: true
 authors:
   - admin
