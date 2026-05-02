@@ -1,5 +1,5 @@
 ---
-title: Cosmology
+title: Cosmology & Astroparticles
 type: teaching
 date: 2026-01-01
 ---
@@ -10,7 +10,7 @@ date: 2026-01-01
 
 This course introduces modern cosmology, from the dynamics of the expanding Universe to the nature of dark matter and dark energy. Emphasis is placed on connecting theoretical models with observational probes, including the cosmic microwave background, large-scale structure, and gravitational waves.
 
-The lectures are designed for advanced undergraduate and graduate students in physics.
+The material is intended for advanced undergraduate and graduate students in physics.
 
 ## Course description
 
