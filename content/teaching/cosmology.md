@@ -1,9 +1,10 @@
 ---
-![Timeline of the Universe](/img/teaching/cosmology_timeline.png)
 title: Cosmology
 type: teaching
 date: 2026-01-01
 ---
+
+![Timeline of the Universe](/img/teaching/cosmology_timeline.png)
 
 ## Overview
 
