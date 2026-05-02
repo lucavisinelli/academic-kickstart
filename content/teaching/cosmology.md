@@ -1,8 +1,15 @@
 ---
+![Timeline of the Universe](/img/teaching/cosmology_timeline.png)
 title: Cosmology
 type: teaching
 date: 2026-01-01
 ---
+
+## Overview
+
+This course introduces modern cosmology, from the dynamics of the expanding Universe to the nature of dark matter and dark energy. Emphasis is placed on connecting theoretical models with observational probes, including the cosmic microwave background, large-scale structure, and gravitational waves.
+
+The lectures are designed for advanced undergraduate and graduate students in physics.
 
 ## Course description
 
