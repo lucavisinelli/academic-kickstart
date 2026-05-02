@@ -1,3 +1,31 @@
+# Luca Visinelli — Academic Website
+
+This repository contains the source code for my personal academic website:
+
+**https://www.lucavisinelli.com**
+
+The site presents my research, publications, talks, teaching, outreach, and contact information.
+
+## About
+
+I am a theoretical physicist working on dark matter, axions, black holes, gravitational waves, and cosmology. The website is built with Hugo using the Academic/Wowchemy theme structure.
+
+## Repository structure
+
+- `content/` — pages, posts, publications, talks, and project entries
+- `config/` — site configuration, menus, parameters, and languages
+- `assets/` — custom styling and media assets
+- `static/` — static files served directly
+- `themes/` — Hugo theme files or theme submodule
+- `netlify.toml` — deployment configuration
+
+## Local development
+
+To run the site locally:
+
+```bash
+hugo server
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
