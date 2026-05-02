@@ -14,4 +14,4 @@ This section collects lecture notes, slides, and teaching material from my cours
 
 ### Courses
 
-- [**Cosmology**](/teaching/cosmology/) — lecture notes and slides on the expanding Universe, dark matter, the cosmic microwave background, and structure formation.
+- [**Cosmology & Astroparticles**](/teaching/cosmology/) — lecture notes and slides on the expanding Universe, dark matter, the cosmic microwave background, and structure formation.
