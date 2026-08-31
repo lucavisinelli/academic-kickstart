@@ -49,9 +49,9 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a theoretical physicist at the [University of Salerno](https://www.df.unisa.it/en) and [INFN](https://www.infn.it/) working at the interface of particle physics, astrophysics, and cosmology. I use the Universe and precision experiments as laboratories for new fundamental physics, with particular emphasis on axions and ultralight particles, dark-matter substructure, black holes, gravitational waves, and dark energy.
+I am a theoretical physicist at the [University of Salerno](https://www.df.unisa.it/en) and [INFN](https://www.infn.it/) working at the interface of particle physics, astrophysics, and cosmology. I use the Universe and precision experiments as laboratories for new fundamental physics, with particular emphasis on axions and ultralight particles, dark matter substructure, black holes, gravitational waves, and dark energy.
 
-My research connects early-Universe dynamics and nonlinear structure formation to concrete observables in haloscopes, radio telescopes, gravitational-wave detectors, atomic sensors, and cosmological surveys. I coordinate the Theory Work Package of [FLASH](https://coldlab.lnf.infn.it/experiments/flash/) and co-developed ASTRA, a radio programme searching for axion conversion in neutron-star magnetospheres.
+My research connects early Universe dynamics and nonlinear structure formation to concrete observables in haloscopes, radio telescopes, gravitational wave detectors, atomic sensors, and cosmological surveys. I coordinate the Theory Work Package of [FLASH](https://coldlab.lnf.infn.it/experiments/flash/) and co-developed ASTRA, a radio programme searching for axion conversion in neutron-star magnetospheres.
 
 Before joining Salerno in 2025, I was a Tenure-track Associate Professor at Shanghai Jiao Tong University and a Fellow at the [Tsung-Dao Lee Institute](https://tdli.sjtu.edu.cn/EN/), a Marie Skłodowska-Curie FELLINI Fellow at INFN Frascati, a GRAPPA Fellow at the University of Amsterdam, and a postdoctoral researcher at NORDITA in Stockholm.
 
