@@ -2,16 +2,22 @@
 widget = "blank"
 headless = true
 active = true
-weight = 35
+weight = 60
 
 title = "Teaching"
-subtitle = ""
+subtitle = "From first principles to research questions."
+
+[advanced]
+  css_class = "home-section-v2"
 +++
 
-This section collects lecture notes, slides, and teaching material from my courses in cosmology, astroparticle physics, and related topics. The material is intended for advanced undergraduate and graduate students in physics.
+My courses connect the mathematical foundations of cosmology and gravitation to current research in dark matter, dark energy, and gravitational waves. Public notes and slides are intended for advanced undergraduate and graduate students.
 
-[![Timeline of the Universe](/img/teaching/cosmology_timeline.png)](/teaching/cosmology/)
-
-### Courses
-
-- [**Cosmology & Astroparticles**](/teaching/cosmology/) — lecture notes and slides on the expanding Universe, dark matter, the cosmic microwave background, and structure formation.
+<a class="v2-feature-link" href="/teaching/cosmology/">
+  <span class="v2-eyebrow">COURSE MATERIALS</span>
+  <span class="v2-feature-link__body">
+    <strong>Cosmology &amp; Astroparticles</strong>
+    <span>Lecture notes and slides on the expanding Universe, dark matter, the cosmic microwave background, and structure formation.</span>
+  </span>
+  <span class="v2-feature-link__action">Explore course materials <span aria-hidden="true">&rarr;</span></span>
+</a>

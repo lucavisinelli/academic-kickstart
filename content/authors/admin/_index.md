@@ -1,12 +1,13 @@
 ---
 title: Luca Visinelli
-role: Tenure-track Assistant Professor
+role: Assistant Professor of Theoretical Physics (RTT)
 avatar_filename: avatar.jpg
-bio: PhD in Physics, working on Particle Astrophysics and Dark Matter modeling.
+bio: Theoretical physicist working across particle physics, astrophysics, cosmology, and experimental searches.
 interests:
-  - Particle astrophysics
-  - Dark matter modeling
-  - Black hole signatures (shadows, gravitational waves)
+  - Axions and ultralight particles
+  - Dark-matter substructure and compact objects
+  - Gravitational waves and black holes
+  - Cosmology and dark energy
 social:
   - link: mailto:lvisinelli@unisa.it
     icon_pack: far
@@ -14,14 +15,17 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lucavisinelli
-  - icon_pack: fab
-    icon: researchgate
-    link: https://www.researchgate.net/profile/Luca_Visinelli
-  - icon: googlescholar
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=9w4cYvoAAAAJ
+  - icon: inspire
+    icon_pack: ai
+    link: https://inspirehep.net/authors/1269953
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7958-8940
 organizations:
-  - name: Università degli Studi di Salerno (Italy)
+  - name: University of Salerno and INFN (Italy)
     url: https://www.df.unisa.it/en
 education:
   courses:
@@ -31,9 +35,12 @@ education:
     - course: MSc in Physics
       institution: The University of Utah
       year: 2011
-    - course: BSc in Physics
+    - course: MSc in Physics
       institution: University of Bologna, Italy
       year: 2007
+    - course: BSc in Physics
+      institution: University of Bologna, Italy
+      year: 2005
 email: lvisinelli@unisa.it
 superuser: true
 authors:
@@ -42,12 +49,16 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a theoretical physicist working on dark matter, axions, black holes, and cosmology, with a focus on gravitational signatures and particle interactions beyond the Standard Model. My research explores the interplay between fundamental physics and astrophysical observations, including gravitational waves, superradiance, and cosmological probes.
+I am a theoretical physicist at the [University of Salerno](https://www.df.unisa.it/en) and [INFN](https://www.infn.it/) working at the interface of particle physics, astrophysics, and cosmology. I use the Universe and precision experiments as laboratories for new fundamental physics, with particular emphasis on axions and ultralight particles, dark-matter substructure, black holes, gravitational waves, and dark energy.
 
-I am an Assistant Professor of physics at [Università degli Studi di Salerno](https://corsi.unisa.it/fisica/home) (Italy) since March 2025. I previously held a tenure-track fellowship at the [Tsung-Dao Lee Institute](https://tdli.sjtu.edu.cn/EN/) (China), was a ["Fellini" Marie Skłodowska-Curie Fellow](https://web.infn.it/fellini/) at the [National Institute of Nuclear Physics (INFN)](http://w3.lnf.infn.it/?lang=en) (Italy), a Fellow at the [Gravitation, AstroParticle Physics Amsterdam (GRAPPA)](https://grappa.amsterdam) (Netherlands), and a postdoctoral researcher at [NORDITA](https://www.nordita.org) in Stockholm (Sweden). I graduated from The University of Utah in Salt Lake City, UT (USA).
+My research connects early-Universe dynamics and nonlinear structure formation to concrete observables in haloscopes, radio telescopes, gravitational-wave detectors, atomic sensors, and cosmological surveys. I coordinate the Theory Work Package of [FLASH](https://coldlab.lnf.infn.it/experiments/flash/) and co-developed ASTRA, a radio programme searching for axion conversion in neutron-star magnetospheres.
 
-My research focuses on the axion as a dark matter candidate, for which I co-wrote a [review on Physics Report](https://www.sciencedirect.com/science/article/abs/pii/S0370157320302477?via%3Dihub) in 2020. I also collaborated on an influential [paper on the Hubble tension](https://iopscience.iop.org/article/10.1088/1361-6382/ac086d) in 2021.
+Before joining Salerno in 2025, I was a Tenure-track Associate Professor at Shanghai Jiao Tong University and a Fellow at the [Tsung-Dao Lee Institute](https://tdli.sjtu.edu.cn/EN/), a Marie Skłodowska-Curie FELLINI Fellow at INFN Frascati, a GRAPPA Fellow at the University of Amsterdam, and a postdoctoral researcher at NORDITA in Stockholm.
 
-In 2023, I was awarded a [Research Fund For International Scientists](https://www.nsfc.gov.cn/english/site_1/international/D5/2021/04-02/231.html) grant by the National Science Foundation of China for the project "Astrophysical Axion Laboratories". In 2022, I was co-recipient of the prestigious [Buchalter Cosmology Prize](http://www.buchaltercosmologyprize.org) for "opening new, unforeseen vistas for the scientific scope of direct detection dark matter experiments".
+My work has received the [2021 Buchalter Cosmology Prize](http://www.buchaltercosmologyprize.org) (Third Prize) and an NSFC Research Fund for International Excellent Young Scientists for the project *Astrophysical Axion Laboratories*.
 
-My h-index is 49 according to [Inspire-HEP](https://inspirehep.net/authors/1269953), and my [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is 4.
+<div class="v2-cta-row">
+  <a class="btn btn-primary" href="#research">Research programme</a>
+  <a class="btn btn-outline-primary" href="/cv.pdf">Curriculum Vitae</a>
+  <a class="btn btn-outline-primary" href="#group">Work with us</a>
+</div>

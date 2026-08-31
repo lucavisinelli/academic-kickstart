@@ -1,85 +1,44 @@
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+widget = "blank"
+headless = true
+active = true
+weight = 20
 
-title = "Research"
-subtitle = ""
+title = "Research programme"
+subtitle = "Fundamental physics across the early Universe, the sky, and precision experiments."
 
-[content]
-  # Page type to display. E.g. project.
-  page_type = "project"
-  
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Dark Matter"
-    tag = "Dark Matter"
-
-  [[content.filter_button]]
-    name = "Dark Energy"
-    tag = "Dark Energy"
-
-  [[content.filter_button]]
-    name = "Axions"
-    tag = "Axions"
-
-  [[content.filter_button]]
-    name = "Black Holes"
-    tag = "Black Holes"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 5
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
 [advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  css_class = "home-section-v2"
 +++
 
+My research is organized around four connected questions: how new light particles are produced, how they structure the Universe, how they interact with compact objects, and how they can be detected.
+
+<div class="v2-card-grid v2-card-grid--four">
+  <a class="v2-card" href="/project/axions/">
+    <span class="v2-eyebrow">01</span>
+    <h3>Axions and ultralight particles</h3>
+    <p>From early-Universe production to miniclusters, streams, axion stars, and dark radiation, I study how light bosonic fields evolve and which observables preserve their cosmological history.</p>
+    <span class="v2-card-link">Explore this theme <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="v2-card" href="#projects">
+    <span class="v2-eyebrow">02</span>
+    <h3>Experiments and radio searches</h3>
+    <p>I translate axion and high-frequency gravitational-wave theory into measurable signals for resonant haloscopes, radio telescopes, atomic sensors, and multimode detector networks.</p>
+    <span class="v2-card-link">See active programmes <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="v2-card" href="/project/black-holes/">
+    <span class="v2-eyebrow">03</span>
+    <h3>Black holes and gravitational probes</h3>
+    <p>I use primordial and astrophysical black holes, superradiance, compact binaries, and high-energy messengers as precision probes of dark sectors and gravity.</p>
+    <span class="v2-card-link">Explore this theme <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="v2-card" href="/project/dark-energy/">
+    <span class="v2-eyebrow">04</span>
+    <h3>Cosmology beyond &Lambda;CDM</h3>
+    <p>I investigate dark energy, cosmological tensions, neutrino interactions, cosmic strings, reionization, and departures from standard thermal and expansion histories.</p>
+    <span class="v2-card-link">Explore this theme <span aria-hidden="true">&rarr;</span></span>
+  </a>
+</div>

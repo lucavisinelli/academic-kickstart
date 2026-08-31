@@ -49,7 +49,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Luca Visinelli is an Assistant Professor of Theoretical Physics at the University of Salerno and INFN, working on axions, dark matter, black holes, gravitational waves, dark energy, and experimental searches."
 
 ############################
 ## Site Features
@@ -112,16 +112,14 @@ office_hours = []
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:luca.visinelli"},
-  ]
+contact_links = []
 
 ############################
 ## Social
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "pic1"
+sharing_image = "pic1.jpg"
 
 #Twitter username (without @). Used when a visitor shares your site on Twitter.
 #twitter = "luca_visinelli"
@@ -292,4 +290,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/

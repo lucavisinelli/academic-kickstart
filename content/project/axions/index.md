@@ -1,14 +1,16 @@
 ---
 title: Axions
+summary: From early-Universe production to miniclusters, streams, axion stars, and experimental signals.
 date: 2020-08-26T14:25:53.529Z
 draft: false
 featured: false
 tags:
   - Axions
-external_link: https://en.wikipedia.org/wiki/Axion
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-The **axion** is a hypothetical elementary particle that is associated with the solution of the Strong-CP problem proposed by R. Peccei and H. Quinn in 1977. Axions are a also a viable dark matter candidate and the archetype of bosons that contribute to the energy density of the Universe as an ensemble of coherent waves.
+Axions and other ultralight particles can behave as coherent fields, dark radiation, compact objects, or structured dark matter. My work follows these fields from their production in the early Universe through nonlinear evolution into miniclusters, streams, and axion stars.
+
+I then connect that cosmological history to observables: resonant haloscopes, radio signals from neutron-star magnetospheres, precision experiments, and multimessenger searches. The aim is to identify signatures that distinguish the underlying particle model from its astrophysical environment.
