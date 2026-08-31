@@ -1,73 +1,68 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+widget = "blank"
+headless = true
+active = true
+weight = 40
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+title = "Selected publications"
+subtitle = "Foundational contributions and recent directions."
 
-title = "Selected Publications"
-subtitle = "Ten representative publications"
-
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 10
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 1
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
 [advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
- # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+  css_class = "home-section-v2"
 +++
 
-{{% alert note %}}
-For full list of publications and preprints with bibliometric details see <p> <a href="https://inspirehep.net/authors/1269953">my INSPIRE profile</a>, <a href="https://orcid.org/0000-0001-7958-8940">my ORCID profile</a>, and <a href="https://scholar.google.it/citations?user=9w4cYvoAAAAJ&hl=en">my Google Scholar profile</a>.
-{{% /alert %}}
+<div class="v2-publication-list">
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2026 &middot; Preprint</span>
+    <h3><a href="https://arxiv.org/abs/2605.28005">Transient axion streams from disrupted miniclusters</a></h3>
+    <p>Predicting the occurrence, duration, and spectral structure of transient local axion streams.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2026 &middot; Physical Review D 113, 123024</span>
+    <h3><a href="https://arxiv.org/abs/2511.01655">Direct detection of solar chameleons with electron recoil data from XENONnT</a></h3>
+    <p>Using direct-detection data to test screened dark-energy fields produced in the Sun.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2025 &middot; Preprint</span>
+    <h3><a href="https://arxiv.org/abs/2510.15031">Atomic quantum sensors for high-frequency gravitational wave searches</a></h3>
+    <p>A hybrid detector framework extending gravitational-wave searches from radio to optical frequencies.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2025 &middot; Physical Review Letters 135, 031801</span>
+    <h3><a href="https://arxiv.org/abs/2503.08439">Testing the dark origin of neutrino masses with oscillation experiments</a></h3>
+    <p>Connecting ultralight dark sectors to time-dependent signatures in neutrino oscillations.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2025 &middot; Physics of the Dark Universe 49, 102034</span>
+    <h3><a href="https://arxiv.org/abs/2410.07037">Ultralight black holes as sources of high-energy particles</a></h3>
+    <p>Exploring energetic particle production from evaporating ultralight black holes.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2024 &middot; Physical Review D 110, 123002</span>
+    <h3><a href="https://arxiv.org/abs/2407.13060">Axions in Andromeda: searching for minicluster&ndash;neutron-star encounters with the Green Bank Telescope</a></h3>
+    <p>A telescope strategy for transient radio signals from dense axion structures.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2021 &middot; Physical Review Letters 127, 131103</span>
+    <h3><a href="https://arxiv.org/abs/2011.05378">Transient radio signatures from neutron-star encounters with QCD axion miniclusters</a></h3>
+    <p>Establishing transient radio bursts as a probe of axion miniclusters.</p>
+  </article>
+
+  <article class="v2-publication">
+    <span class="v2-publication-meta">2020 &middot; Physics Reports 870, 1&ndash;117</span>
+    <h3><a href="https://arxiv.org/abs/2003.01100">The landscape of QCD axion models</a></h3>
+    <p>A systematic map of axion constructions, phenomenology, and experimental targets.</p>
+  </article>
+</div>
+
+<div class="v2-button-row">
+  <a class="btn btn-outline-primary" href="https://inspirehep.net/authors/1269953">All works on INSPIRE</a>
+  <a class="btn btn-outline-primary" href="https://orcid.org/0000-0001-7958-8940">ORCID record</a>
+  <a class="btn btn-outline-primary" href="https://scholar.google.com/citations?user=9w4cYvoAAAAJ">Google Scholar</a>
+</div>

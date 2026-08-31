@@ -2,6 +2,8 @@
 title: Cosmology & Astroparticles
 type: teaching
 date: 2026-01-01
+aliases:
+  - /project/cosmology-astroparticles-course/
 ---
 
 ![Timeline of the Universe](/img/teaching/cosmology_timeline.png)

@@ -1,14 +1,16 @@
 ---
 title: Dark Energy
+summary: Dynamical dark energy, screened fields, cosmological tensions, and precision tests of cosmic acceleration.
 date: 2020-08-26T14:28:51.995Z
 draft: false
 featured: false
 tags:
   - Dark Energy
-external_link: https://en.wikipedia.org/wiki/Dark_energy
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-Measurements of supernovae distances first showed that the expansion rate of the Universe is accelerating. This finding is consistent with the idea that a large part of the energy of the Universe is stored into dark energy. Further evidences from surveys of distant galaxies and from gravitational lensing corroborates this interpretation. It is currently not known whether dark energy is a cosmological constant or a new, extremely light particle. I work on this second possibility, assuming that dark energy is a manifestation of a *quintessence* field.
+Cosmic acceleration may reflect a cosmological constant, a dynamical field, or a modification of gravity. I investigate the theoretical consistency and observable consequences of alternatives to the standard model of cosmology.
+
+Current directions include quintessence and screened scalar fields, laboratory tests of solar chameleons, departures from standard expansion histories, and the relation between new light degrees of freedom and cosmological tensions. The objective is to translate broad model space into discriminating observations.

@@ -1,59 +1,57 @@
-# Luca Visinelli — Academic Website
+# Luca Visinelli — academic website
 
-This repository contains the source code for my personal academic website:
+Source for [lucavisinelli.com](https://lucavisinelli.com/), built with Hugo and the Academic theme.
 
-👉 https://lucavisinelli.com
+## Homepage v2
 
-The site is built with **Hugo** using the Academic (Wowchemy) theme and is automatically deployed via **Netlify**.
+Version 2 reorganizes the homepage around the visitor's main questions: who Luca is, what the research programme addresses, which experiments and collaborations he leads, which publications best establish the work, and how students or collaborators can engage.
 
----
+The definitive information architecture, copy map, and maintenance notes are in [`HOMEPAGE_V2.md`](HOMEPAGE_V2.md). Homepage sections live in `content/home/`; profile copy lives in `content/authors/admin/_index.md`; visual refinements live in `assets/scss/custom.scss`.
 
-## 📌 Overview
+## Local development
 
-The website includes:
-
-* Research interests and publications
-* Teaching materials (lecture notes and slides)
-* Talks and presentations
-* Curriculum Vitae
-
----
-
-## 🛠️ Development
-
-To run the site locally:
+The Academic theme is a Git submodule, so clone recursively:
 
 ```bash
+git clone --recursive https://github.com/lucavisinelli/academic-kickstart.git
+cd academic-kickstart
 hugo server
 ```
 
-Then open:
+If the repository has already been cloned:
 
-```text
-http://localhost:1313
+```bash
+git submodule update --init --recursive
+hugo server
 ```
 
----
+GitHub-style source archives do not include submodule contents. From an extracted archive with an empty `themes/academic/` directory, restore the exact theme revision used for validation:
 
-## 🚀 Deployment
+```bash
+git clone https://github.com/gcushen/hugo-academic.git themes/academic
+git -C themes/academic checkout 7108eefac11bda75a0859bd428fd147476f390a4
+hugo server
+```
 
-The site is automatically deployed from the `master` branch using Netlify.
+Netlify currently pins Hugo Extended `0.74.3`; use the same version when reproducing the production build.
 
----
+## Deployment
 
-## 📂 Structure
+Netlify builds the `master` branch with `hugo --gc --minify`. Before merging homepage changes, check desktop and mobile layouts, both color modes, internal links, and downloadable files.
 
-* `content/` — pages and posts
-* `static/` — images, PDFs, and assets
-* `config/` — site configuration
+## Structure
 
----
+- `content/home/` — homepage sections and their order
+- `content/authors/admin/` — profile, biography, affiliations, and social links
+- `content/project/` — research-theme landing pages
+- `content/teaching/` — course pages
+- `assets/scss/custom.scss` — site-specific presentation
+- `static/` — images, PDFs, and downloads
+- `config/` — Hugo and navigation configuration
 
-## 📫 Contact
+## Contact
 
-* Email: [luca.visinelli@gmail.com](mailto:luca.visinelli@gmail.com)
-* GitHub: https://github.com/lucavisinelli
-* Google Scholar: https://scholar.google.com/citations?user=9w4cYvoAAAAJ
-
----
-
+- Email: [lvisinelli@unisa.it](mailto:lvisinelli@unisa.it)
+- GitHub: [lucavisinelli](https://github.com/lucavisinelli)
+- INSPIRE: [author profile](https://inspirehep.net/authors/1269953)
+- Google Scholar: [author profile](https://scholar.google.com/citations?user=9w4cYvoAAAAJ)
